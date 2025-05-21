@@ -1,0 +1,40 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv/
+
+# pip install logs and wheels
+pip-log.txt
+pip-delete-this-directory.txt
+
+# VSCode
+.vscode/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# MacOS
+.DS_Store
+
+# Pytest
+.pytest_cache/
+
+# Coverage reports
+htmlcov/
+.coverage
+.tox/
+nosetests.xml
+coverage.xml
+
+# MyPy
+.mypy_cache/
+
+# PyCharm
+.idea/
